@@ -1,0 +1,21 @@
+id,nama,harga,stok,jenis
+1,Croissant,15000.0,45,Bakery
+2,Chocolate Muffin,20000.0,99,Pastry
+3,Cheese Danish,18000.0,30,Pastry
+4,Blueberry Muffin,22000.0,25,Bakery
+5,Apple Pie,25000.0,20,Pastry
+6,Baguette,12000.0,60,Bakery
+7,Cinnamon Roll,20000.0,35,Pastry
+8,Banana Bread,18000.0,90,Bakery
+9,Donut,10000.0,80,Pastry
+10,Eclair,15000.0,39,Pastry
+11,Focaccia,20000.0,50,Bakery
+12,Garlic Bread,12000.0,70,Bakery
+13,Honey Cake,25000.0,30,Pastry
+14,Italian Bread,18000.0,60,Bakery
+15,Jam Tart,22000.0,25,Pastry
+16,Key Lime Pie,30000.0,15,Pastry
+17,Lemon Cake,20000.0,40,Pastry
+18,Macaron,15000.0,90,Pastry
+19,Nutella Croissant,18000.0,46,Bakery
+20,Orange Muffin,20000.0,19,Pastry

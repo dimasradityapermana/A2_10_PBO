@@ -1,0 +1,13 @@
+idPelanggan,idPemesanan,idProduk,namaProduk,jumlah,metodePembayaran,timestamp,status
+40518,40518-537,1,Croissant,1,Cash,27/05/2025/14.59.32,Pending
+40518,40518-537,2,Brownies,1,Cash,27/05/2025/14.59.32,Pending
+40518,40518-198,3,Donat Coklat,1,Cash,27/05/2025/14.59.43,Pending
+40518,40518-369,9,Pudding Caramel,1,QRIS,27/05/2025/15.00.03,Pending
+40518,40518-105,10,Focaccia,1,qris,27/05/2025/16.46.47,Done
+49290,49290-237,1,Croissant,5,Cash,27/05/2025/21.41.18,Done
+49290,49290-577,20,Orange Muffin,1,qris,27/05/2025/21.56.36,Done
+49290,49290-577,19,Nutella Croissant,2,qris,27/05/2025/21.56.36,Done
+23484,23484-832,10,Eclair,1,cash,27/05/2025/22.11.37,Packaging
+23484,23484-142,20,Orange Muffin,2,qris,27/05/2025/22.11.51,Done
+23484,23484-142,19,Nutella Croissant,2,qris,27/05/2025/22.11.51,Done
+23484,23484-37,20,Orange Muffin,1,cash,27/05/2025/22.30.02,Pending
